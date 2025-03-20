@@ -4,4 +4,4 @@
 
 ### outcome
 
-![My Image](/my_project-2/public/sample.png)
+![My Image](/public/sample.png)
